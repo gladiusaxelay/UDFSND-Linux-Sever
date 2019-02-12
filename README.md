@@ -311,7 +311,7 @@ sudo service apache2 restart
 http://{YOUR-SERVER-PUBLIC-IP}.xip.io/
 ```
 
-If you face issues, I found useful to retch the most recent 40 entries of the error.log file:
+If you face issues, I found useful to fetch the most recent 40 entries of the error.log file:
 
 ```
 sudo tail -40 /var/log/apache2/error.log
