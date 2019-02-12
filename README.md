@@ -304,7 +304,7 @@ And update in your Google API console the authorized domains, origins and redire
 * Authorized js origins: http:/{YOUR-SERVER-PUBLIC-IP}.xip.io
 * Authorized redirect URIs: http:/{YOUR-SERVER-PUBLIC-IP}.xip.io/{YOUR-REDIRECT-LANDING-PAGE}
 
-restart the apache server and try to login to the web app:
+Restart the apache server and try to login to the web app:
 
 ```
 sudo service apache2 restart
