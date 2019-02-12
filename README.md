@@ -50,7 +50,7 @@ In case you get the message "sudo: unable to resolve host", open the hosts file:
 ```
 sudo nano /etc/hosts
 ```
-and add 
+And add:
 
 ```
 127.0.0.1 ip-aaa-bbb-ccc-ddd
