@@ -4,10 +4,6 @@ The final project of the UDFSND requires setting up a Linux server with sound se
 
 Student is expected to take a baseline installation of a Linux distribution on a virtual machine and prepare it to host the web app, install updates, securing it from a number of attack vectors and installing/configuring the web and database server.
 
-IP Address: 3.8.124.12
-SSH port: 2200
-Web app URL: http://3.8.124.12.xip.io
-
 ## Getting Started
 
 Select a cloud provider whereby you can deploy and configure a Linux web server. For this one, AWS Lightsail was used as instructed in the Nanodegree. Distribution is Ubuntu LTS 16.04 LTS.
